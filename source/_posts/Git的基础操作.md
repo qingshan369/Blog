@@ -5,7 +5,7 @@ tags:
     - 编程
 ---
 
-1. 在文件夹目录下鼠标右键单击==Git Bush Here==弹出git命令行
+1. 在文件夹目录下鼠标右键单击`Git Bush Here`弹出git命令行
 
 2. 创建本地仓库
 ```Git
